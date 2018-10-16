@@ -1,0 +1,7 @@
+creamos un archivo .ts -> tsc -> .js -> node (lo podemos compilar)
+
+Con el js lo podemos ejecutar con el html
+
+con tsc clase1_1.ts -w (se activa el modo watch, y asi compila inmediatamente)
+
+En visual studio code. Abrir la carpeta que tiene los archivos y luego darle en ver "terminal integrado"
