@@ -1,0 +1,13 @@
+Enunciado de la tarea 1 de la sección 2730
+
+Realizar las siguientes actividades:
+
+1.- Descargar e instalar nodeJs en su PC. Instalar TypeScript. Mostrar por la cónsola la versión instalada de ambas herramientas
+
+2.- Crear un archivo nuevo TypeScript y crear en este una función para calcular el salario de un vendedor, tomando en cuenta un salario base, una cantidad de años de antiguedad y el número de hijos. Se asume por defecto que la antiguedad es 1 y el número de hijos es 0. Si el trabajador tiene más de 5 años trabajando en la compañia se le paga un bono de 12.5%. Por cada hijo se le paga 1000 extras. Si tiene más de 3 hijos, se le paga 500 extras por cada hijo por encima del tercero (usar parámetros con su respectivo tipo de dato y valores por defecto )
+
+3.- Hacer un ciclo for para procesar los datos de N empleados. Llamar adentro del ciclo la función creada en el objetivo anterior usando datos aletorios. Mostrar los valores aleatorios y el resultado de la función usando console.log
+
+4.- Ejecutar el archivo en la cónsola usando Node para visualizar los resultados
+
+5.- Hacer otra versíon del objetivo 3, donde los datos se pidan al usuario usando prompt (vaidar los datos). Enlazar a un archivo HTML el archivo JS resultante para procesar los empleados usando el navegador
