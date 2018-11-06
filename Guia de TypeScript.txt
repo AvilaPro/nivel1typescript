@@ -1,0 +1,1 @@
+www.typescriptlang.org   PAGINA QUE MUESTRA LAS BASES Y LEXICO DE TYPESCRIPT
